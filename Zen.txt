@@ -5,7 +5,7 @@ Zen of Python!!!
 4.Gitt-oss-oss
 5.TrueDarkFork
 6.
-7.lTRustyl
+7.Readability counts.
 8.
 9.dmytrostn
 10.
