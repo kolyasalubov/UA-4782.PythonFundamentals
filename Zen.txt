@@ -3,11 +3,11 @@ Zen of Python!!!
 2.
 3.
 4.Gitt-oss-oss
-5.
+5.TrueDarkFork
 6.
 7.lTRustyl
 8.
-9.
+9.dmytrostn
 10.
 11.mariahorbachova
 12.
