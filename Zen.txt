@@ -15,7 +15,7 @@ Zen of Python!!!
 14.Although that way may not be obvious at first unless you're Dutch.
 15.
 16.
-17.DianaSenkin
+17.Namespaces are one honking great idea — let's do more of those!
 18.
 19.
 20.
