@@ -2,7 +2,7 @@ Zen of Python!!!
 1.
 2.
 3.
-4.Gitt-oss-oss
+4.Complex is better than complicated.
 5.TrueDarkFork
 6.
 7.Readability counts.
