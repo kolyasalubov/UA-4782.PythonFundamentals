@@ -10,7 +10,7 @@ Zen of Python!!!
 9.dmytrostn
 10.
 11.Unless explicitly silenced.
-12.YuliaMedvedieva
+12.In the face of ambiguity, refuse the temptation to guess.
 13.IvanDukhota
 14.Although that way may not be obvious at first unless you're Dutch.
 15.
