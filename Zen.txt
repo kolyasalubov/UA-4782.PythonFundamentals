@@ -1,7 +1,7 @@
 Zen of Python!!!
 1.
 2.
-3.
+3.Simple is better than complex.
 4.Complex is better than complicated.
 5.TrueDarkFork
 6.
