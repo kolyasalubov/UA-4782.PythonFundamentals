@@ -7,7 +7,7 @@ Zen of Python!!!
 6.
 7.Readability counts.
 8.
-9.dmytrostn
+9.Simple is better than complex.
 10.
 11.Unless explicitly silenced.
 12.In the face of ambiguity, refuse the temptation to guess.
